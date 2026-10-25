@@ -1,6 +1,6 @@
 {
   "name": "Ramène ton Tup à Mémé",
-  "short_name": "Mémé",
+  "short_name": "Ramène ton Tup à Mémé",
   "description": "Note les boîtes prêtées en famille et rappelle gentiment de les rendre.",
   "lang": "fr",
   "id": "/",
@@ -11,8 +11,23 @@
   "background_color": "#FFF8EB",
   "theme_color": "#FFF8EB",
   "icons": [
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
